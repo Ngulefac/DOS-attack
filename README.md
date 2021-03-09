@@ -58,3 +58,4 @@ Install Brew and Install dependencies (python 3)
 
 # Note:
 If you find any problems than please write on issue github. Don't use for revenge! Make sure of your anonymity! Or else you'll bleed.
+It's made for just testing purpose.
