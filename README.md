@@ -73,4 +73,5 @@ Thanks.</i>***
 
 ●🖥MAC
 
-___For any kind of help, support, payment, suggetion and request___
+___For any kind of help, support, payment, suggetion and request :___ Visit my [email](#) or write a github issue
+
