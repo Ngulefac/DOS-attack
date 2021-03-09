@@ -25,15 +25,15 @@ o use the DDos-tool type the following commands in Termux:
 
 `ls`
 
-`python3 DOS-attack.py`
+`python3 Blacksquad-DOS.py`
 
 
 ## USAGE
 
-`python3 DOS-attack.py -s [ip Address] -t 135`
+`python3 Blacksquad-DOS.py`
 
 
-`example: python3 DOS-attack.py -s 127.0.0.1 -t 135`
+`example: python3 Blacksquad-DOS.py`
 
 ## For Debian-based GNU/Linux distributions
 
@@ -48,9 +48,9 @@ To use the application, type in the following commands in GNU/Linux terminal.
 
 `ls`
 
-`python3 DOS-attack.py` OR `python DOS-attack.py`
+`python3 Blacksquad-DOS.py` OR `python Blacksquad-DOS.py`
 
-`example: python3 DOS-attack.py -s 127.0.0.1 -t 135`
+`example: python3 Blacksquad-DOS.py`
 
 ## For MacOS
 
@@ -70,10 +70,6 @@ Thanks.</i>***
 ●📱Termux >_
 
 ●🖥Windows
- `base64, codecs`
 
 ●🖥MAC
 `Install Brew and Install dependencies (python 3)`
-
-___For any kind of help, support, payment, suggetion and request :___ Visit my [email](#) or write a github issue
-
