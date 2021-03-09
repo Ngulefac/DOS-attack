@@ -25,7 +25,7 @@ print "Author   : Ngulefac Theophilus"
 print "github   : https://github.com/Ngulefac"
 
 print
-ip = raw_input("IP Target : ")
+ip = raw_input("IP Target(eg: 127.0.0.1) : ")
 port = input("Port       : ")
 
 os.system("clear")
