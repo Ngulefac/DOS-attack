@@ -70,6 +70,7 @@ Thanks.</i>***
 ●📱Termux >
 
 ●🖥Windows
+ `base64, codecs`
 
 ●🖥MAC
 
