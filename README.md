@@ -20,3 +20,11 @@ o use the DDos-tool type the following commands in Termux:
 `pkg install python3 -y`
 
 `git clone https://github.com/Ngulefac/DOS-attack.git`
+
+`cd DOS-attack`
+
+`ls`
+
+`python3 DOS-attack.py`
+
+
