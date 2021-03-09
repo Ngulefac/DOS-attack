@@ -64,3 +64,11 @@ We are not responsible for any abuse or damage caused by this program. Only for 
 Thanks.
 
 ## Requirments ▶
+
+●🖥Linux OS( Kali 🐉 Ubuntu )
+
+●📱Termux >
+
+●🖥Windows
+
+●🖥MAC
