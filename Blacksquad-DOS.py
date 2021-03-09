@@ -27,3 +27,7 @@ print "github   : https://github.com/Ngulefac"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
+
+os.system("clear")
+os.system("figlet 'Attack Starting'")
+os.system("echo '       ]===> I am the Boss now <===['")
