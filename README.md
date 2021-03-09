@@ -41,3 +41,5 @@ To use the application, type in the following commands in GNU/Linux terminal.
 
 
 `sudo apt install git` or  `sudo apt-get install git`
+
+`git clone https://github.com/Ngulefac/DOS-attack.git`
