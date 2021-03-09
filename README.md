@@ -38,3 +38,6 @@ o use the DDos-tool type the following commands in Termux:
 ## For Debian-based GNU/Linux distributions
 
 To use the application, type in the following commands in GNU/Linux terminal.
+
+
+`sudo apt install git` or  `sudo apt-get install git`
