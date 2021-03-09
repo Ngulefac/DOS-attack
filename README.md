@@ -75,4 +75,4 @@ Thanks.</i>***
 ●🖥Windows
 
 ●🖥MAC
-     - ```Python2```
+     - ```Python2 and Figlet```
