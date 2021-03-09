@@ -32,3 +32,5 @@ o use the DDos-tool type the following commands in Termux:
 
 `python3 DOS-attack.py -s [ip Address] -t 135`
 
+
+`example: python3 DOS-attack.py -s 127.0.0.1 -t 135`
