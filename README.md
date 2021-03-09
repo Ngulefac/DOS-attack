@@ -26,8 +26,9 @@ o use the DDos-tool type the following commands in Termux:
 
 `ls`
 
-`python3 Blacksquad-DOS.py`
+`chmod +x Blacksquad-DOS.py`
 
+`python2 Blacksquad-DOS.py`
 
 ## USAGE
 
