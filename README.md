@@ -51,3 +51,7 @@ To use the application, type in the following commands in GNU/Linux terminal.
 `python3 DOS-attack.py` OR `python DOS-attack.py`
 
 `example: python3 DOS-attack.py -s 127.0.0.1 -t 135`
+
+## For MacOS
+
+Install Brew and Install dependencies (python 3)
