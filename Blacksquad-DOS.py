@@ -33,7 +33,7 @@ os.system("figlet 'Blacksquad'")
 os.system("figlet 'Attack Starting'")
 os.system("echo '       ]===> I am the Boss now <===['")
 print " \n"
-print "[                    ] 0% "
+print "[                     ] 0% "
 time.sleep(5)
 print "[=====>               ] 25%"
 time.sleep(5)
