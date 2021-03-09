@@ -36,8 +36,6 @@ o use the DDos-tool type the following commands in Termux:
 `python2 Blacksquad-DOS.py`
 
 
-`example: python2 Blacksquad-DOS.py`
-
 ## For Debian-based GNU/Linux distributions
 
 To use the application, type in the following commands in GNU/Linux terminal.
@@ -52,8 +50,6 @@ To use the application, type in the following commands in GNU/Linux terminal.
 `ls`
 
 `python2 Blacksquad-DOS.py`
-
-`example: python2 Blacksquad-DOS.py`
 
 ## For MacOS
 
