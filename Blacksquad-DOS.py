@@ -23,3 +23,7 @@ os.system("figlet DOS Attack ")
 print " "
 print "Author   : Ngulefac Theophilus"
 print "github   : https://github.com/Ngulefac"
+
+print
+ip = raw_input("IP Target : ")
+port = input("Port       : ")
