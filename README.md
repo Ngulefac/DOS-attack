@@ -67,7 +67,7 @@ Thanks.</i>***
 
 ●🖥Linux OS( Kali 🐉 Ubuntu )
 
-●📱Termux >
+●📱Termux >_
 
 ●🖥Windows
  `base64, codecs`
