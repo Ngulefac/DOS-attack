@@ -34,3 +34,7 @@ o use the DDos-tool type the following commands in Termux:
 
 
 `example: python3 DOS-attack.py -s 127.0.0.1 -t 135`
+
+## For Debian-based GNU/Linux distributions
+
+To use the application, type in the following commands in GNU/Linux terminal.
