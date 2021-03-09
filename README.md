@@ -72,3 +72,5 @@ Thanks.
 ●🖥Windows
 
 ●🖥MAC
+
+For any kind of help, support, payment, suggetion and request
