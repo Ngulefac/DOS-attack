@@ -48,4 +48,4 @@ To use the application, type in the following commands in GNU/Linux terminal.
 
 `ls`
 
-`python3 DOS-attack.py`
+`python3 DOS-attack.py` OR `python DOS-attack.py`
