@@ -73,6 +73,7 @@ Thanks.</i>***
  `base64, codecs`
 
 ●🖥MAC
+`Install Brew and Install dependencies (python 3)`
 
 ___For any kind of help, support, payment, suggetion and request :___ Visit my [email](#) or write a github issue
 
