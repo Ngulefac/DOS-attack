@@ -34,7 +34,7 @@ o use the DDos-tool type the following commands in Termux:
 ## USAGE
 
 `python2 Blacksquad-DOS.py`
-
+  
 
 ## For Debian-based GNU/Linux distributions
 
@@ -64,11 +64,11 @@ Thanks.</i>***
 
 ## Requirments ▶
 
-●🖥Linux OS( Kali 🐉 Ubuntu )
+> ●🖥Linux OS( Kali 🐉 Ubuntu )
 
-●📱Termux >_
+> ●📱Termux >_
 
-●🖥Windows
+> ●🖥Windows 
 
-●🖥MAC
+> ●🖥MAC
      - ```Python2 and Figlet```
